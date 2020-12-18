@@ -1,4 +1,9 @@
-# Random Numbers
-Generating random numbers using different methods.
+# Random Numbers Generators
 
--I. von Neumann middle square method.
+**This is initial commit**
+
+Generating random numbers using different methods.
+---
+
+## I. Middle square method
+von Neumann middle square method.
